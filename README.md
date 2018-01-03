@@ -19,4 +19,5 @@ The USRP is a world-class SDR that is completely compatible with GNU Radio. Impl
 
 ￼
 [1] https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2934&context=smallsat
+
 [2] http://www.rincon.com/wp-content/uploads/2016/11/ASTROSDR_Brief_v1-3-1.pdf
