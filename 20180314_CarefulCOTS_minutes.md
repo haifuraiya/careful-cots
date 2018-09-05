@@ -29,7 +29,7 @@ We discussed several technical challenges including memory. Jordan mentioned tri
 
 Other action items included:
 
-Set up a Slack channel for careful COTS (private channel #careful_cots set up in order to better support work that might be under NDA) 
-Ensure contact information is shared (done)
+ * Set up a Slack channel for careful COTS (private channel #careful_cots set up in order to better support work that might be under NDA) 
+ * Ensure contact information is shared (done)
 
 
